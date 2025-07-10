@@ -1,15 +1,17 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-Some information about you!
+I am currently in my fifth year at the University of Queensland, in my Honours year in the Bachelor of Advanced Science with a major in Physics. I have an interest in theoretical physics and am doing my Honours project with Dr. Benjamin Roberts in theoretical atomic physics. I have also been a tutor at the University of Queensland for over two years now and have found it almost as equally challenging and enjoyable as my degree itself! 
 
-### More Information
+### Research
 
-A place to include any other types of information that you'd like to include about yourself.
+My Honours project looks at including relativistic effects into high-accuracy theoretical atomic structure calculations. More specifically, I have been looking at including relativistic corrections to the typical electron-electron interaction, the leading order correction to which is known as the Breit interaction, into a high accuracy method for calculating the properties of atoms that uses Feynman diagrams known as the [all-orders correlation potential method](https://doi.org/10.1016/0375-9601(88)90302-7). My Honours thesis can be found [here](./Honours_thesis.pdf), and we are currently preparing a paper based on the work I completed in my project.
 
-### Contact me
+### Tutoring
 
-[email@domain.com](mailto:email@domain.com)
+I have been tutoring since my third year of study and have tutored a wide variety of courses across the School of Mathematics and Physics. Among the courses I have tutored are MATH1052 (Multivariate Calculus & Ordinary Differential Equations), MATH2001 (Calculus & Linear Algebra II), PHYS2020 (Thermodynamics and Condensed Matter Physics), PHYS2041 (Quantum Mechanics I), PHYS3020 (Statistical Mechanics), and PHYS3051 (Fields in Physics II). My experience in tutoring these courses is that it really does improve my own understanding of these topics, and it also is incredibly satisfying when I help a student out on a topic that I know I myself found really challenging at first. Even though I don't know where I will end up in terms of the field of physics I go into, teaching is something that I always want to continue doing.
+
+[uqaskouf@uq.edu.au](mailto:uqaskouf@uq.edu.au)
