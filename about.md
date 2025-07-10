@@ -19,5 +19,7 @@ I have been tutoring since my third year of study and have tutored a wide variet
 * PHYS2041 (Quantum Mechanics I),
 * PHYS3020 (Statistical Mechanics), and
 * PHYS3051 (Fields in Physics II). 
+
+<a/>
 I've found tutoring to be incredibly rewarding in terms of improving my own understanding of maths and physics concepts, but also incredibly satisfying when can I help a student out on a topic that I know I found really challenging when I first encountered it as a student. My own experience taking maths and physics courses at university has been that in a lot of cases, a lot more learning will happen in tutorials than in lectures, and so I try to teach students in the way that I always found worked best for myself when I was still learning. Even though I don't know where I will end up in terms of the field of physics I go into, teaching is something that I always want to continue doing.
 
