@@ -4,6 +4,8 @@ title: About me
 permalink: /about/
 ---
 
+![Photo of me](./images/Tasmania_image.jpeg)
+
 I am currently in my fifth year at the University of Queensland, in my Honours year in the Bachelor of Advanced Science with a major in Physics. I have an interest in theoretical physics and am doing my Honours project with Dr. Benjamin Roberts in theoretical atomic physics. I have also been a tutor at the University of Queensland for over two years now and have found it almost as equally challenging and enjoyable as my degree itself! 
 
 ### Research
