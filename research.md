@@ -22,6 +22,6 @@ Over the summer of 2023/2024, I completed a summer research project under the su
 
 Over the course of my studies I have started a whole bunch of sets of notes for courses that I have taken. Unfortunately most of these have not been finished, but I have attached them below, and hopefully their being available for anyone to see online will force me to finish them someday. That is to say, **none of these sets are finished** and they should not be used with any sort of expectation that they are correct.
 * [Special relativity notes](./Special_relativity_notes.pdf), with an emphasis on 4-vectors
-* Quantum mechanics notes
+* [Quantum mechanics notes](./PHYS2941_Revision_notes.pdf)
 * Atomic physics notes (these do not contain any disussion of angular momentum, but just cover the general theory)
 * Classical field theory notes, with an intention to eventually include quantum field theory
