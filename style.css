@@ -1,0 +1,19 @@
+body {
+    font-family: 'Roboto', 'Segoe UI', -apple-system, 'Helvetica', sans-serif;
+    margin: 0;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: lightgrey;
+    border-bottom: 6px solid grey; 
+    flex-wrap: wrap;
+    padding: 16px;
+}
+
+.alias {
+    display: flex;
+    justify-content: begin;
+    flex-wrap: wrap;
+}
